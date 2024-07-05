@@ -79,8 +79,8 @@ The project successfully demonstrated the application of various collaborative f
 
 ## References
 - Recommendation Systems Mini Project AI 705
-- [Project Presentation](./presentation.pdf)  
+- [Project Presentation](./Presentation.pdf)  
 ## Contact
-For any queries or further information, please contact [your email].
+For any queries or further information, please contact Jashwanth.Kadaru095@iiitb.ac.in .
 
 
