@@ -77,15 +77,9 @@ This project focuses on building a Movie Recommendation System using various col
 ## Conclusion
 The project successfully demonstrated the application of various collaborative filtering and clustering techniques to build a robust Movie Recommendation System. The use of SVD and K-Means clustering significantly improved the recommendation quality by effectively capturing user preferences and genre-specific trends.
 
-## Future Work
-- Explore hybrid recommendation systems combining collaborative filtering with content-based filtering.
-- Implement real-time recommendation updates based on user interactions.
-- Extend the system to include more diverse datasets and user demographics.
-
 ## References
 - Recommendation Systems Mini Project AI 705
-- [Project Presentation](path/to/presentation.pdf)  (Add the correct path to your presentation file)
-
+- [Project Presentation](./presentation.pdf)  
 ## Contact
 For any queries or further information, please contact [your email].
 
